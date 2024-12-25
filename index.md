@@ -2,3 +2,7 @@
 ###### Header 6
 
 ![Text img](https://octodex.github.com/images/yaktocat.png)
+
+```bash
+git clone https://github.com/yourusername/demo-repo2.git
+```
