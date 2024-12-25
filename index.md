@@ -6,3 +6,6 @@
 ```bash
 git clone https://github.com/yourusername/demo-repo2.git
 ```
+- [ ] Test 1
+- [X] Test 2
+- [x] Test 3
